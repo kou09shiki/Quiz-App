@@ -2,21 +2,83 @@
 
 A colorful, interactive GATE-style quiz application built with Java Swing.
 
+## Tech Stack
+
+- **Programming Language:** Java
+- **UI Framework:** Java Swing (javax.swing, java.awt)
+- **Build/Run Tools:** javac, java (command line)
+
 ## Features
 
 - **Custom question creation**: Enter any number of your own questions (with 4 options each) at run time.
 - **Timed exams**: Set a total exam time in seconds; the quiz auto-submits when time is up.
 - **Instant feedback**: See if your selection is correct or wrong immediately.
-- **Beautiful UI**: Comic Sans MS fonts, bright button colors, and emoji celebrations for full marks!
-- **Scoring system**: Tracks correct/wrong answers, total points, and shows a percentage “GATE score” at the end.
-- **Motivational result**: Encouraging messages based on your performance and a lollipop emoji for a perfect score.
+- **Beautiful UI**: Uses Comic Sans MS fonts, bright button colors, and emoji celebrations for perfect scores!
+- **Scoring system**: Tracks correct answers, wrong answers, total points, and displays a percentage “GATE score”.
+- **Motivational result**: Encouraging messages based on your performance, with a lollipop emoji for a perfect score.
 
 ## How to Run
 
-1. **Requirements**  
-   Java 8 or above
+### Requirements
 
-2. **Compile**  
+- Java 8 or above
+
+### Compile
+
+# Quiz-App
+
+A colorful, interactive GATE-style quiz application built with Java Swing.
+
+## Tech Stack
+
+- **Programming Language:** Java
+- **UI Framework:** Java Swing (javax.swing, java.awt)
+- **Build/Run Tools:** javac, java (command line)
+
+## Features
+
+- **Custom question creation**: Enter any number of your own questions (with 4 options each) at run time.
+- **Timed exams**: Set a total exam time in seconds; the quiz auto-submits when time is up.
+- **Instant feedback**: See if your selection is correct or wrong immediately.
+- **Beautiful UI**: Uses Comic Sans MS fonts, bright button colors, and emoji celebrations for perfect scores!
+- **Scoring system**: Tracks correct answers, wrong answers, total points, and displays a percentage “GATE score”.
+- **Motivational result**: Encouraging messages based on your performance, with a lollipop emoji for a perfect score.
+
+## How to Run
+
+### Requirements
+
+- Java 8 or above
+
+### Compile
+
+# Quiz-App
+
+A colorful, interactive GATE-style quiz application built with Java Swing.
+
+## Tech Stack
+
+- **Programming Language:** Java
+- **UI Framework:** Java Swing (javax.swing, java.awt)
+- **Build/Run Tools:** javac, java (command line)
+
+## Features
+
+- **Custom question creation**: Enter any number of your own questions (with 4 options each) at run time.
+- **Timed exams**: Set a total exam time in seconds; the quiz auto-submits when time is up.
+- **Instant feedback**: See if your selection is correct or wrong immediately.
+- **Beautiful UI**: Uses Comic Sans MS fonts, bright button colors, and emoji celebrations for perfect scores!
+- **Scoring system**: Tracks correct answers, wrong answers, total points, and displays a percentage “GATE score”.
+- **Motivational result**: Encouraging messages based on your performance, with a lollipop emoji for a perfect score.
+
+## How to Run
+
+### Requirements
+
+- Java 8 or above
+
+### Compile
+
 
 ### Run
 
@@ -35,3 +97,4 @@ A colorful, interactive GATE-style quiz application built with Java Swing.
 ## License
 
 MIT License
+
